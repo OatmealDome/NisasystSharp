@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NisasystSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "Mush/ActorDb.release.byml \"%userprofile%\\Documents\\Development\\Blitz\\romfs_410\\Pack\\Mush.release\\Mush\\ActorDb.release.byml\""
+    }
+  }
+}
